@@ -1,0 +1,4 @@
+lista_galan = [1, 2, 3, 4, 5]
+lista_galan.append(6)
+
+print("Lista de galan:", lista galan)
