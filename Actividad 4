@@ -1,0 +1,5 @@
+tuplajess = ('rojo', 'verde', 'celeste')
+
+print(tuplajess[1])
+
+print("Segundo Color:", tuplajess[1])
